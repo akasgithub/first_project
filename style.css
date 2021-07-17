@@ -12541,6 +12541,7 @@ footer {
     .featured-section .featured-listing .features {
       flex: 0 0 calc(25% - 20px);
       margin: 0 10px;
+      cursor: pointer;
       /* Large Devices, Wide Screens */
       /* Large Devices, Wide Screens */
       /* Large Devices, Wide Screens */
